@@ -10,74 +10,45 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 BCA Student  
-- 💻 Learning Web Development  
-- ⚛️ Currently learning React  
-- 🚀 Building projects using PHP and JavaScript  
-- 📍 India  
+- 🎓 BCA Student
+- 💻 Learning Web Development
+- ⚛️ Currently learning React
+- 🚀 Building projects using PHP and JavaScript
 
 ---
 
 ### 🌐 Connect with Me
 
-<p align="center">
-
 <a href="https://www.instagram.com/pandey.ji__800">
 <img src="https://img.shields.io/badge/Instagram-pandey.ji__800-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
-</p>
 
 ---
 
 ### 🛠 Tech Stack
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=php" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,php,git,github"/>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
+![stats](https://github-readme-stats.vercel.app/api?username=ajaypandey1807&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api?username=ajaypandey1807&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaypandey1807&layout=compact&theme=tokyonight"/>
-
-</p>
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaypandey1807&layout=compact&theme=tokyonight)
 
 ---
 
 ### 👀 Profile Views
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ajaypandey1807&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=ajaypandey1807&color=blue)
 
 ---
 
 ### 🐍 Contribution Snake
 
-<p align="center">
-
-<img src="https://github.com/ajaypandey1807/github-snake-animation/blob/output/github-contribution-grid-snake.svg"/>
-
-</p>
+![snake gif](https://github.com/ajaypandey1807/github-snake-animation/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ⭐ Learning new technologies and building projects.
-
-🚀 Always improving and exploring new technologies.
