@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ajay Pandey</h1>
 
-<!--
-**ajaypandey1807/ajaypandey1807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Frontend Developer | React Learner</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🎓 BCA Student
+- 💻 Learning Web Development
+- ⚛️ Currently learning React
+- 🚀 Building projects using PHP and JavaScript
+
+---
+
+### 🌐 Connect with Me
+
+<a href="https://www.instagram.com/pandey.ji__800">
+<img src="https://img.shields.io/badge/Instagram-pandey.ji__800-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+---
+
+### 🛠 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,php,git,github"/>
+
+---
+
+### 📊 GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=ajaypandey1807&show_icons=true&theme=tokyonight)
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaypandey1807&layout=compact&theme=tokyonight)
+
+---
+
+⭐ Learning new technologies and building projects.
